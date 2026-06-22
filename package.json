@@ -1,7 +1,0 @@
-{
-  "name": "sportsprob-realtime",
-  "version": "4.0.0",
-  "description": "Sports Prob AI — Backend temps réel avec cache, retry, mode démo",
-  "engines": { "node": ">=18" },
-  "type": "module"
-}
